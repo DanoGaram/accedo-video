@@ -1,112 +1,142 @@
 [
     {
         "id": 1,
-        "title": "Madagascar",
-        "description": "Pelicula rara",
+        "title": "Aquaman",
+        "description": "Tras los acontecimientos de la Liga de la Justicia, Arthur Curry, el renuente gobernante del reino submarino de Atlantis, se ve atrapado en una batalla entre habitantes de la superficie, que amenazan a sus océanos, y su propia gente, que están dispuestos a atacar e invadir la superficie.",
         "parentalRating": "A+",
         "Langage": "Es",
         "credits": ["Director 1", "Actor2"],
-        "imageUrl": "movie.jpg",
-        "videoUrl": "https://youtu.be/03ffjEhPddo"
+        "imageUrl": "https://accedo-test-app.s3.amazonaws.com/AquamanAdv.jpg",
+        "videoUrl": "https://accedo-test-app.s3.amazonaws.com/gon-vs-pitou-full-fight-60fps.mp4"
     },
     {
         "id": 2,
-        "title": "Madagascar",
-        "description": "Pelicula rara",
+        "title": "Ip Man 4",
+        "description": "The Kung Fu master travels to the U.S. where his student has upset the local martial arts community by opening a Wing Chun school.",
         "parentalRating": "A+",
-        "Langage": "Es",
+        "Langage": "En",
         "credits": ["Director 1", "Actor2"],
-        "imageUrl": "movie.jpg",
-        "videoUrl": "https://youtu.be/03ffjEhPddo"
+        "imageUrl": "https://accedo-test-app.s3.amazonaws.com/812x1200_v3.jpg",
+        "videoUrl": "https://accedo-test-app.s3.amazonaws.com/gon-vs-pitou-full-fight-60fps.mp4"
     },
     {
         "id": 3,
-        "title": "Madagascar",
-        "description": "Pelicula rara",
+        "title": "Avatar",
+        "description": "La acción se sitúa en 2154. Jake Sully, un marine veterano de guerra y herido en combate que ha quedado parapléjico, es seleccionado para participar en el programa Avatar ocupando el puesto que, como científico, ocupaba su hermano gemelo recién fallecido e incinerado delante sus propios ojos. De esta forma, Jake es trasladado a Pandora, una luna del planeta Polifemo cuya atmósfera es tóxica para los humanos (debido a su alta concentración de ácido sulfhídrico) y que además de albergar una asombrosa biodiversidad, está habitada por los na’vi, una raza humanoide de piel azul, con algunos rasgos felinos y huesos reforzados de forma natural con fibra de carbono.34​ Los humanos se encuentran en conflicto con los nativos del clan Omaticaya, debido a que están asentados alrededor de un gigantesco árbol, conocido por ellos como Árbol Madre, que cubre una inmensa veta de un mineral muy cotizado: el unobtainium. La existencia de dicho mineral ha llevado a una empresa privada a crear un proyecto de explotación de recursos minerales, dirigido por Parker Selfridge en lo civil y por el coronel Miles Quaritch en lo militar.",
         "parentalRating": "A+",
         "Langage": "Es",
         "credits": ["Director 1", "Actor2"],
-        "imageUrl": "movie.jpg",
-        "videoUrl": "https://youtu.be/03ffjEhPddo"
+        "imageUrl": "https://accedo-test-app.s3.amazonaws.com/Avatar-608x900.jpg",
+        "videoUrl": "https://accedo-test-app.s3.amazonaws.com/gon-vs-pitou-full-fight-60fps.mp4"
     },
     {
         "id": 4,
-        "title": "Madagascar",
-        "description": "Pelicula rara",
+        "title": "La bella y  la Bestia",
+        "description": "Un Príncipe francés está presentando en un baile debutante en su castillo cuando una vieja mendiga aparece. Buscando refugio contra el frío, ofrece una sola rosa como pago, sin embargo ella es rechazada por el príncipe por su aspecto andrajoso. Cuando el Príncipe ignora su advertencia de no dejarse llevar por las apariencias y la vuelve a rechazar, la anciana se revela como una malvada bruja y transforma al Príncipe en una monstruosa Bestia y a sus sirvientes en varios objetos domésticos (candelabros, relojes, armarios, teteras, plumeros, escabeles, etc.). Todos los recuerdos del Príncipe y del castillo son borrados de las memorias de los invitados. La hechicera procede a maldecir la rosa y advierte a la Bestia que permanecerá en su estado hechizado a menos que aprenda a amar a alguien y ganarse su amor a cambio en el momento que caiga el último pétalo.",
         "parentalRating": "A+",
         "Langage": "Es",
         "credits": ["Director 1", "Actor2"],
-        "imageUrl": "movie.jpg",
-        "videoUrl": "https://youtu.be/03ffjEhPddo"
+        "imageUrl": "https://accedo-test-app.s3.amazonaws.com/Beauty-Beast-2017-Movie-Posters.jpg",
+        "videoUrl": "https://accedo-test-app.s3.amazonaws.com/gon-vs-pitou-full-fight-60fps.mp4"
     },
     {
         "id": 5,
-        "title": "Madagascar",
-        "description": "Pelicula rara",
+        "title": "Le Perfume",
+        "description": "Perfume: The Story of a Murderer (titulada El perfume: historia de un asesino en España y Perfume: la historia de un asesino en Hispanoamérica) es una película dramática de coproducción entre Alemania, España y Francia dirigida por Tom Tykwer y estrenada en el año 2006. La cinta se basa en la novela homónima de Patrick Süskind y está protagonizada por Ben Whishaw, Dustin Hoffman, Alan Rickman, Rachel Hurd-Wood y Karoline Herfurth.",
         "parentalRating": "A+",
-        "Langage": "Es",
+        "Langage": "Fr",
         "credits": ["Director 1", "Actor2"],
-        "imageUrl": "movie.jpg",
-        "videoUrl": "https://youtu.be/03ffjEhPddo"
+        "imageUrl": "https://accedo-test-app.s3.amazonaws.com/Use-AIDA-Formula.jpg",
+        "videoUrl": "https://accedo-test-app.s3.amazonaws.com/gon-vs-pitou-full-fight-60fps.mp4"
     },
     {
         "id": 6,
-        "title": "Madagascar",
-        "description": "Pelicula rara",
+        "title": "Jumanji",
+        "description": "En 2019, tres años después de su aventura en Jumanji, Spencer Gilpin, Anthony Fridge Johnson, Martha Kaply y Bethany Walker llevan vidas diferentes, pero planean un brunch de reunión en Brantford ese año. Spencer, aprensivo de la reunión debido a la depresión, contempla regresar a Jumanji donde tenía un propósito, y pasa su primera noche mirando el sistema de videojuegos roto que tenía. Al día siguiente, sus amigos visitan su casa y se encuentran con el abuelo de Spencer, Eddie, quien se está recuperando de cirugía de cadera, y el ex amigo de Eddie, Milo Walker, quien está de visita por un motivo desconocido. Al enterarse de que no tienen idea de dónde está Spencer, el grupo busca en la casa y encuentra el juego Jumanji reparado en el sótano. Al darse cuenta de que Spencer regresó al juego, sus amigos deciden seguirlo.",
         "parentalRating": "A+",
         "Langage": "Es",
         "credits": ["Director 1", "Actor2"],
-        "imageUrl": "movie.jpg",
-        "videoUrl": "https://youtu.be/03ffjEhPddo"
+        "imageUrl": "https://accedo-test-app.s3.amazonaws.com/affiche-jumanji-next-level-jumanji-the-next-level-2019-2.jpg",
+        "videoUrl": "https://accedo-test-app.s3.amazonaws.com/gon-vs-pitou-full-fight-60fps.mp4"
     },
     {
         "id": 7,
-        "title": "Madagascar",
-        "description": "Pelicula rara",
+        "title": "Ant man",
+        "description": "En 1989, el científico Hank Pym (el Ant-Man original), en una reunión con Howard Stark, Peggy Carter y el entonces director Mitchell Carson, renuncia a S.H.I.E.L.D. tras descubrir que la organización intentó duplicar su tecnología de reducción. Pym cree que la tecnología es muy peligrosa en manos equivocadas y se compromete a llevarse el secreto a la tumba",
         "parentalRating": "A+",
         "Langage": "Es",
         "credits": ["Director 1", "Actor2"],
-        "imageUrl": "movie.jpg",
-        "videoUrl": "https://youtu.be/03ffjEhPddo"
+        "imageUrl": "https://accedo-test-app.s3.amazonaws.com/ant_man_ver5.jpg",
+        "videoUrl": "https://accedo-test-app.s3.amazonaws.com/gon-vs-pitou-full-fight-60fps.mp4"
     },
     {
         "id": 8,
-        "title": "Madagascar",
-        "description": "Pelicula rara",
+        "title": "Avengers",
+        "description": "Después de haber adquirido la Gema del Poder que había quedado bajo custodia de los Nova Corps en el planeta Xandar, el malvado titán intergaláctico Thanos, intercepta la nave espacial que transportaba a los sobrevivientes de la destrucción de Asgard y la ataca. Durante el asalto a la nave, Thanos y sus lugartenientes, Ebony Maw, Cull Obsidian, Próxima Midnight y Corvus Glaive, exterminan a la mitad de la tripulación. Thanos somete a Thor y amenaza a Loki con matar a su hermano adoptivo si no le entrega el Teseracto, al principio Loki finge que no le importa la vida de su hermano, pero al ver la determinación de Thanos, cede ante la presión y le muestra el Teseracto para ganar tiempo hasta que llega Hulk y comienza a pelear contra el guerrero extraterrestre, no obstante, el titán demostró tener más habilidad en la lucha mano a mano y derrota rápidamente a Hulk. Al ver esto, Heimdall quien yacía malherido en el suelo, usa lo que le queda de energía oscura para enviar a Bruce Banner / Hulk de regreso a la Tierra invocando el Bifröst, eso enfadó a Thanos y en represalia asesina a Heimdall. Luego extrae la Gema del Espacio del Teseracto y mata a Loki. Una vez que cumple su cometido, Thanos se va con sus lugartenientes y destruye la nave espacial.",
         "parentalRating": "A+",
         "Langage": "Es",
         "credits": ["Director 1", "Actor2"],
-        "imageUrl": "movie.jpg",
-        "videoUrl": "https://youtu.be/03ffjEhPddo"
+        "imageUrl": "https://accedo-test-app.s3.amazonaws.com/avengersinfinitywar.jpg",
+        "videoUrl": "https://accedo-test-app.s3.amazonaws.com/gon-vs-pitou-full-fight-60fps.mp4"
     },
     {
         "id": 9,
-        "title": "Madagascar",
-        "description": "Pelicula rara",
+        "title": "Capitana Marvel",
+        "description": "En 1995, en el planeta Hala, capital del Imperio Kree, la guerrera y miembro de la Fuerza Estelar Vers sufre de pesadillas recurrentes que involucran a una mujer mayor. Yon-Rogg, su mentor y comandante, le advierte mientras entrenan que controle sus habilidades, y a su vez la Inteligencia Suprema, una inteligencia artificial orgánica que actúa como gobernante Kree, la insta a mantener sus emociones bajo control.",
         "parentalRating": "A+",
         "Langage": "Es",
         "credits": ["Director 1", "Actor2"],
-        "imageUrl": "movie.jpg",
-        "videoUrl": "https://youtu.be/03ffjEhPddo"
+        "imageUrl": "https://accedo-test-app.s3.amazonaws.com/captainmarvel_lob_crd_06.jpg",
+        "videoUrl": "https://accedo-test-app.s3.amazonaws.com/gon-vs-pitou-full-fight-60fps.mp4"
     },
     {
         "id": 10,
-        "title": "Madagascar",
-        "description": "Pelicula rara",
+        "title": "Star wars",
+        "description": "Un año después de los eventos de Los últimos Jedi, tras una transmisión proveniente del difunto Emperador Palpatine clamando venganza, el Líder Supremo Kylo Ren obtiene un dispositivo Sith Wayfinder luego de acabar con los habitantes del lugar, y viaja al planeta Exegol, en las regiones desconocidas, con el objetivo de eliminar al malvado Lord Sith, quien supone una amenaza a su poder. Allí, descubre a un Palpatine muy anciano, ciego y decrépito, quien está conectado a una maquinaria que lo mantiene vivo, la cual es monitoreada por unos alienígenas. Éste afirma que sí murió a manos de Anakin Skywalker, pero que el Lado oscuro es la vía para habilidades que muchos consideran antinaturales. También revela que creó a Snoke como un títere para controlar la Primera Orden y manipuló todo desde las sombras. Luego levanta desde las entrañas del planeta una poderosa armada secreta de Destructores Estelares Sith con la que le ofrece crear un nuevo Imperio, llamada la Orden Final. El le pormete darle a Ren esta poderosa flota ,a cambio debe encontrar a Rey y matarla, ya que ella no es quien todos creen que es. Mientras tanto, la joven Rey continúa su entrenamiento Jedi con la general Leia ejerciendo de maestra, primero hace meditación llamando a los Jedis del pasado y luego recorriendo un circuito de obstáculos, incluyendo una esfera similar a la que utilizo Luke en su entrenamiento inicial. Al final Rey es distraida por visiones y por la conexion que mantiene con Kylo Ren, y corta un par de árboles, uno de los cuales aprisiona a BB-8, ella lo salva y asi termina su entrenamiento.",
         "parentalRating": "A+",
         "Langage": "Es",
         "credits": ["Director 1", "Actor2"],
-        "imageUrl": "movie.jpg",
-        "videoUrl": "https://youtu.be/03ffjEhPddo"
+        "imageUrl": "https://accedo-test-app.s3.amazonaws.com/dqcvbm8rlfi31.png",
+        "videoUrl": "https://accedo-test-app.s3.amazonaws.com/gon-vs-pitou-full-fight-60fps.mp4"
     },
     {
         "id": 11,
-        "title": "Madagascar",
-        "description": "Pelicula rara",
+        "title": "El club de la pelea",
+        "description": "Fight Club (conocida como El club de la lucha en España y como El club de la pelea en Hispanoamérica) es una película satírica estadounidense de 1999 basada en la novela homónima de Chuck Palahniuk. La cinta fue dirigida por David Fincher y protagonizada por Edward Norton, Brad Pitt y Helena Bonham Carter. Norton interpreta al protagonista, un hombre común, cuyo nombre no se revela, que está aburrido con su profesión liberal en la sociedad estadounidense, por lo que funda un club de peleas clandestino con un vendedor de jabones llamado Tyler Durden (interpretado por Brad Pitt), y se ve envuelto en una relación con este y con Marla Singer, interpretada por Helena Bonham Carter",
         "parentalRating": "A+",
         "Langage": "Es",
         "credits": ["Director 1", "Actor2"],
-        "imageUrl": "movie.jpg",
-        "videoUrl": "https://youtu.be/03ffjEhPddo"
+        "imageUrl": "https://accedo-test-app.s3.amazonaws.com/fd5e662dce1a3a8cd192a5952fa64f02.jpg",
+        "videoUrl": "https://accedo-test-app.s3.amazonaws.com/gon-vs-pitou-full-fight-60fps.mp4"
+    },
+    {
+        "id": 12,
+        "title": "Black Panther",
+        "description": "Pantera Negra (Black Panther en su título original) es una película de superhéroes estadounidense de 2018 basada en el personaje de Marvel Comics Pantera Negra. Producida por Marvel Studios y distribuida por Walt Disney Studios, es la decimoctava película del Universo cinematográfico de Marvel (MCU). La película es dirigida por Ryan Coogler, que escribió el guion con Joe Robert Cole, y es protagonizada por Chadwick Boseman como T'Challa / Black Panther, junto con Michael B. Jordan, Lupita Nyong'o, Danai Gurira, Martin Freeman, Daniel Kaluuya, Letitia Wright, Winston Duke, Angela Bassett, Forest Whitaker y Andy Serkis. En Black Panther, T'Challa es coronado rey de Wakanda luego de la muerte de su padre, pero su soberanía es cuestionada por un adversario que planea abandonar las políticas aislacionistas del país e iniciar una revolución mundial.",
+        "parentalRating": "A+",
+        "Langage": "En",
+        "credits": ["Director 1", "Actor2"],
+        "imageUrl": "https://accedo-test-app.s3.amazonaws.com/medium-black-panther-movie-poster-mp0085-original-imaf3sqtabyhq7kb.jpeg",
+        "videoUrl": "https://accedo-test-app.s3.amazonaws.com/gon-vs-pitou-full-fight-60fps.mp4"
+    },
+    {
+        "id": 13,
+        "title": "Woody kills",
+        "description": "Fight Club (conocida como El club de la lucha en España y como El club de la pelea en Hispanoamérica) es una película satírica estadounidense de 1999 basada en la novela homónima de Chuck Palahniuk. La cinta fue dirigida por David Fincher y protagonizada por Edward Norton, Brad Pitt y Helena Bonham Carter. Norton interpreta al protagonista, un hombre común, cuyo nombre no se revela, que está aburrido con su profesión liberal en la sociedad estadounidense, por lo que funda un club de peleas clandestino con un vendedor de jabones llamado Tyler Durden (interpretado por Brad Pitt), y se ve envuelto en una relación con este y con Marla Singer, interpretada por Helena Bonham Carter",
+        "parentalRating": "A+",
+        "Langage": "Es",
+        "credits": ["Director 1", "Actor2"],
+        "imageUrl": "https://accedo-test-app.s3.amazonaws.com/movie-poster-mashups-13.jpg",
+        "videoUrl": "https://accedo-test-app.s3.amazonaws.com/gon-vs-pitou-full-fight-60fps.mp4"
+    },
+    {
+        "id": 14,
+        "title": "Harry Potter",
+        "description": "La historia comienza con la celebración del mundo mágico. Durante muchos años, había sido aterrorizado por el malvado mago Lord Voldemort. La noche del 31 de octubre, mató a Lily y James Potter. Sin embargo, cuando intenta matar a su hijo de 1 año, Harry, la maldición asesina Avada Kedavra se vuelve sobre sí mismo. El cuerpo de Voldemort resulta destruido, pero él sobrevive: no está muerto ni vivo. Por su parte, a Harry solo le queda una cicatriz con forma de rayo en la frente que es el único remanente físico de la maldición de Voldemort. Harry es el único sobreviviente de la maldición asesina, y a raíz de la misteriosa derrota de Voldemort, el mundo mágico empieza a llamarlo como «el niño que sobrevivió».",
+        "parentalRating": "A+",
+        "Langage": "Es",
+        "credits": ["Director 1", "Actor2"],
+        "imageUrl": "https://accedo-test-app.s3.amazonaws.com/poster-for-movie.png",
+        "videoUrl": "https://accedo-test-app.s3.amazonaws.com/gon-vs-pitou-full-fight-60fps.mp4"
     }
 ]

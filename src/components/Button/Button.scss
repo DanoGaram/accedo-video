@@ -1,0 +1,12 @@
+.button_general {
+    padding: 8px;
+    margin: auto 8px;
+    border-radius: 4px;
+    width: fit-content;
+    height: 25px;
+    &:hover{
+    opacity: 0.8;
+    color: white;
+    cursor: pointer;
+    }
+}

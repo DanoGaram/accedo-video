@@ -20,19 +20,28 @@ class BaseApiResources {
 
 class MovieApiResources extends BaseApiResources{
     constructor(){
-        super('movies.json');
-        console.log('nueva instancia users');
+        super('https://demo5520281.mockable.io/movies');
     }
     //Add some additional methods
-    papas = () => console.log('karen sucks');
 }
 export let moviesApi = new MovieApiResources();
 
-class AccountHttpResources extends BaseApiResources{
+class HistoryApiResources extends BaseApiResources{
     constructor(){
-        super('/api/account');
-        console.log('nueva instancia accounts');
+        super('');
     }
     //Add some additional methods
+    addWatchedVideo = (video) => {
+        let history = this.getWatchedVideos();
+        history.unshift(video);
+        localStorage.setItem('historyVideos', JSON.stringify(history));
+    }
+    getWatchedVideos = () => {
+        const history = JSON.parse(localStorage.getItem('historyVideos')|| null);
+        return history && history.length > 0 ? history : [];
+    }
+    clearHistory = () => {
+        localStorage.setItem('historyVideos', JSON.stringify([]));
+    }
 }
-export let accountHttp = new AccountHttpResources();
+export let historyApi = new HistoryApiResources();
