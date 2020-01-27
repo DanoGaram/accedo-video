@@ -1,0 +1,14 @@
+.detail {
+    display: flex;
+    width: 100%;
+    &_image {
+        width: 30%;
+        img {
+            max-width: -webkit-fill-available;
+        }
+    }
+    &_content {
+        width: 70%;
+        padding: 0px 20px;
+    }
+}
