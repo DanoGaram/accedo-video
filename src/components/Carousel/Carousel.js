@@ -3,11 +3,14 @@ import './Carousel.scss';
 import Item from './Item';
 
 const Carousel = (props) => {
-  const items = props.data.map((x, i) => <Item key={i} data={x} clickItem={props.clickItem}></Item>);
+  const items = props.data.map((x, i) => <Item key={i} isFocus={i === 0} index={i} data={x} clickItem={props.clickItem}></Item>);
+  
   return (
-  <div className="carousuel_container"><div className="carousel-content">
-  {items.length > 0 ? items : props.emptyItemsText}
-</div></div>);
+  <div  className="carousuel_container" >
+    <div  className="carousel-content">
+      {items.length > 0 ? items : props.emptyItemsText}
+    </div>
+  </div>);
 };
 
 export default Carousel;

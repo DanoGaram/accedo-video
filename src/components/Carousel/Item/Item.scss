@@ -1,14 +1,15 @@
 .card {
     cursor: pointer;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 4px 8px 0 #e5edef2b;;
     transition: 0.3s;
     display: block;
     margin: 10px;
     width: 150px;
-    background: pink;
+    background: #6a489640;
     padding: 10px;
-    &:hover {
-        box-shadow: 0 8px 16px 0 rgba(247, 6, 6, 0.808);
+    border-radius: 5px;
+    &:hover, &:focus {
+        box-shadow: 0 10px 16px 5px rgba(234, 32, 109, 0.46)
     }
     .cover {
         width: 150px;
